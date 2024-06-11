@@ -1,0 +1,39 @@
+@extends('website.layout.layout')
+@section('title','Wishpik')
+
+
+@section('content')
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+
+
+<header class="done-header">
+    <div class="container">
+    <div class="d-flex justify-content-between">
+        <div class="logo-img">
+            <img src="{{url('public/auth/img/wishpik-logo.png')}}" alt="logo" />
+         </div>
+         <div class="profile-icon">
+            <div class="d-flex align-items-center gap-2">
+                <p class="pb-0 mb-0">Hey John's</p>
+                <img src="{{url('public/auth/img/Man.png')}}" alt="logo" />
+            </div>
+         </div>
+    </div>
+    </div>
+</header>
+
+<section class="done-section">
+    <div class="container">
+        <div class="done-content">
+            <div class="progress-bar-section">
+                <div class="progress-wrapper">
+                    <div class="progress-bar"><div class="progress"></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</section>
