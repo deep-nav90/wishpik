@@ -1,0 +1,122 @@
+.profile_image img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 15px;
+}
+.error{
+    color: red;
+    font-size: 12px;
+    font-weight: 500;
+
+}
+.swal2-title{
+    color:#000 !important;
+}
+
+
+.main_icon {
+    display: contents;
+    
+    position: relative;
+  
+}
+
+.main_icon img {
+  margin: 0px 15px 0px 0px;
+}
+
+i.fa.fa-times {
+    position: absolute;
+    margin-left: 238px;
+    margin-top: -15px;
+    color: grey;
+    font-weight: 600;
+}
+.audio_img img {
+  border-radius: 7px !important;
+  height: 80px !important;
+    width: 200px !important;
+    object-fit: contain !important;
+    /*border: 2px solid #fff;*/
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.audio_width {
+  width: 170px !important;
+  height: 42px !important;
+}
+  .dashboard_panel .add_imgae_box .user_img img.img_upload {
+    border-radius: 7px;
+    height: 150px;
+      width: 176px;
+      object-fit: contain;
+      border: 2px solid #daa905;
+      margin-bottom: 22px;
+  }
+  .add_img.cross_icon {
+    position: absolute;
+    right: -15px;
+    top: -15px;
+}
+  .dashboard_panel .add_imgae_box .add_img img.plus_icon {
+    top: 129px;
+      margin-left: 65px;
+  }
+  .dashboard_panel .add_imgae_box .cross_icon img.plus_icon {
+    top: -17px;
+
+  }
+ 
+  .upload_align {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .mr-2 {
+    margin-right: 25px !important;
+  }
+
+
+
+ 
+
+.user_img img {
+    vertical-align: middle;
+    border-style: none;
+    width: 220px;
+    height: 130px;
+    border: 1px solid #dfdfdf;
+}
+
+/* .add_img.cross_icon {
+    position: absolute;
+    margin-left: 201px;
+    margin-top: -145px;
+} */
+
+.custom_check_wrap {
+    margin: -20px 0px 0px 200px;
+}
+
+
+img.cross_icon {
+    width: 35px;
+    height: 35px;
+    border:unset;
+}
+/* img.click_upload.plus_icon.cross_icon_old {
+  width: 35px;
+  height: 35px;
+  border:unset;
+} */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
