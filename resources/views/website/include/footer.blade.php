@@ -58,7 +58,7 @@
                                                                     data-stagger="true"
                                                                     data-custom-font-size="true"
                                                                     style="font-size: 4vw; line-height: 4.4vw;">
-                                                                    <h2>Scale your brand and earn more revenue
+                                                                    <h2>Celebrate Together, One Personalised Wish at a Time.
                                                                     </h2>
                                                                 </div>
                                                             </div>

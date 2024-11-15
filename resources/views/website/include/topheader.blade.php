@@ -42,13 +42,16 @@
                 <nav>
                     <ul class="sf-menu sf-js-enabled sf-arrows">
                         <li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home nectar-regular-menu-item menu-item-31">
-                            <a href="#intro" aria-current="page"><span class="menu-title-text">Our values</span></a>
+                            <a href="#intro" aria-current="page"><span class="menu-title-text">Why Wishpik</span></a>
                         </li>
                         <li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home nectar-regular-menu-item menu-item-32">
-                            <a href="#testimonials" aria-current="page"><span class="menu-title-text">Why Salient?</span></a>
+                            <a href="#testimonials" aria-current="page"><span class="menu-title-text">Features</span></a>
                         </li>
                         <li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home nectar-regular-menu-item menu-item-33">
-                            <a href="#how-it-works" aria-current="page"><span class="menu-title-text">How it works</span></a>
+                            <a href="#pricing-section" aria-current="page"><span class="menu-title-text">Pricing</span></a>
+                        </li>
+                        <li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home nectar-regular-menu-item menu-item-33">
+                            <a href="#faq-section" aria-current="page"><span class="menu-title-text">FAQs</span></a>
                         </li>
                     </ul>
                     <ul class="buttons sf-menu" data-user-set-ocm="off">

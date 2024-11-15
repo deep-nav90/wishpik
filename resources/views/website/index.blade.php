@@ -58,7 +58,7 @@
 
     .sectiom8Img .img {
         position: absolute;
-        left: -110px;
+        left: -70px;
         top: 50%;
         z-index: 5555;
         transform: translateY(-50%);
@@ -83,6 +83,7 @@
         justify-content: space-between;
         height: 600px;
         overflow: hidden;
+        border-radius: 20px;
     }
 
     ul.column.column--left {
@@ -789,7 +790,7 @@
                                                                     data-color="accent-color"
                                                                     data-spacing="10px"
                                                                     data-alignment="left">
-                                                                    <p>Express what you feel with our special WhatsApp bot that understands all your needs
+                                                                    <p>Express what you feel with our special WhatsApp bot that understands all your needs.
                                                                     </p>
                                                                 </div>
 
@@ -996,24 +997,11 @@
                                                                     data-spacing="10px"
                                                                     data-alignment="left">
                                                                     <p>
-                                                                        Choose from hundreds of personalized messages and share the colors of your heritage proudly through
+                                                                        Choose from hundreds of personalized messages and share the colors of your heritage proudly through heartfelt, cultural greetings.
                                                                     </p>
 
                                                                 </div>
-                                                                <div
-                                                                    class="nectar-cta alignment_tablet_default alignment_phone_default display_tablet_inherit display_phone_inherit font_size_desktop_1-1vw font_size_tablet_16px"
-                                                                    data-color="default"
-                                                                    data-using-bg="false"
-                                                                    data-display="block"
-                                                                    data-style="underline"
-                                                                    data-alignment="left"
-                                                                    data-text-color="custom">
-                                                                    <span style="color: #ff6b3d;" class="nectar-button-type">
-                                                                        <span class="link_wrap" style="padding-top: 4px; padding-bottom: 4px;">
-                                                                            <a target="_blank" class="link_text" style="border-color: #ff6b3d;" role="button" href="#">View A Demo</a>
-                                                                        </span>
-                                                                    </span>
-                                                                </div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1046,7 +1034,7 @@
                                     data-bg-opacity="1"
                                     data-animation=""
                                     data-delay="0">
-                                    <div class="vc_column-inner" style="padding-left:7vw">
+                                    <div class="vc_column-inner">
                                         <div class="wpb_wrapper">
                                             <div id="fws_6517a2cd8f749" data-midnight="" data-column-margin="none" class="wpb_row vc_row-fluid vc_row inner_row right_padding_5pct top_padding_tablet_8pct" style="">
                                                 <div class="row-bg-wrap">
@@ -1109,7 +1097,7 @@
                                                                     data-color="accent-color"
                                                                     data-spacing="10px"
                                                                     data-alignment="left">
-                                                                    <p>With just a few clicks, create and share your perfect greeting in seconds directly on your WhatsApp
+                                                                    <p>With just a few clicks, create and share your perfect greeting in seconds directly on your WhatsApp.
                                                                     </p>
 
                                                                 </div>
@@ -1133,7 +1121,7 @@
                                     data-delay="0">
                                     <div class="vc_column-inner" style="position:unset;">
                                         <div class="text-align-right" style="text-align:right">
-                                            <img src="public/auth/img/Slide 6 Image.webp" alt="img 7" style="height: auto;object-fit: cover;border-radius: 20px;" />
+                                            <img src="public/auth/img/Slide 6 Image.webp" alt="img 7" style="height: 600px;object-fit: cover;border-radius: 20px;object-position: 34% 100%;" />
                                         </div>
 
                                     </div>
@@ -1243,20 +1231,7 @@
                                                                     data-alignment="left">
                                                                     <p>Wish Wishpik, every moment becomes a canvas for your emotions – paint it with your words.</p>
                                                                 </div>
-                                                                <div
-                                                                    class="nectar-cta alignment_tablet_default alignment_phone_default display_tablet_inherit display_phone_inherit font_size_desktop_1-1vw font_size_tablet_16px"
-                                                                    data-color="default"
-                                                                    data-using-bg="false"
-                                                                    data-display="block"
-                                                                    data-style="underline"
-                                                                    data-alignment="left"
-                                                                    data-text-color="custom">
-                                                                    <span style="color: #ff6b3d;" class="nectar-button-type">
-                                                                        <span class="link_wrap" style="padding-top: 4px; padding-bottom: 4px;">
-                                                                            <a target="_blank" class="link_text" style="border-color: #ff6b3d;" role="button" href="#">Start your trial</a>
-                                                                        </span>
-                                                                    </span>
-                                                                </div>
+                                                               
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1374,7 +1349,7 @@
                                     data-bg-opacity="1"
                                     data-animation=""
                                     data-delay="0">
-                                    <div class="vc_column-inner" style="position:unset;">
+                                    <div class="vc_column-inner" style="position:unset;text-align:right">
                                         <div class="sectiom8Img">
                                             <img src="public/auth/img/Slide 8 Image.webp" alt="img 6" style="height: 600px;
                                                 width: 80%;
@@ -1545,6 +1520,12 @@
                                                                 </p>
                                                                 <span class="testimonial-name">Sonal Deshmukh</span><span class="title">52, Nagpur</span>
                                                             </blockquote>
+                                                            <blockquote>
+                                                                <div data-shadow="" class="image-icon">“</div>
+                                                                <p>Wishpik is so much fun to use! I’ve used it for both festival wishes and casual daily greetings, and the customization options are fantastic. I love that I can create something unique in just a few clicks. It’s definitely my favorite way to share greetings with friends.                                                                <span role="none" class="bottom-arrow"></span>
+                                                                </p>
+                                                                <span class="testimonial-name">Ananya Rao</span><span class="title">24, Hyderabad</span>
+                                                            </blockquote>
                                                         </div>
 
                                                     </div>
@@ -1556,7 +1537,7 @@
                             </div>
                         </div>
                         <div
-                            id="fws_6517a2cd91944"
+                            id="pricing-section"
                             data-column-margin="default"
                             data-midnight="dark"
                             data-top-percent="12%"
@@ -2691,9 +2672,7 @@
                                                 <div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding el_spacing_0px inherit_tablet inherit_phone m-0" style="margin:0">
                                                     <div class="wrapper">
                                                         <span style="margin-bottom: 20px;display: block;">
-                                                            <svg role="presentation" version="1.1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 32 32">
-                                                                <path d="M23.5 31.461h-15c-0.316 0-0.588-0.221-0.652-0.531l-2.5-12c-0.041-0.195 0.008-0.401 0.135-0.557 0.127-0.153 0.317-0.245 0.517-0.245h20c0.2 0 0.391 0.088 0.519 0.245 0.125 0.156 0.175 0.361 0.135 0.557l-2.5 12c-0.065 0.309-0.339 0.531-0.653 0.531zM9.043 30.128h13.916l2.223-10.667h-18.361l2.223 10.667zM24.667 22.128h-17.333c-0.368 0-0.667-0.3-0.667-0.667 0-0.369 0.299-0.667 0.667-0.667h17.333c0.367 0 0.667 0.297 0.667 0.667 0 0.367-0.3 0.667-0.667 0.667zM16 18.795c-0.368 0-0.667-0.3-0.667-0.667v-14.667c0-0.368 0.299-0.667 0.667-0.667s0.667 0.299 0.667 0.667v14.667c0 0.367-0.299 0.667-0.667 0.667zM15.283 16.46v0c-1.988 0-3.672-0.699-4.871-2.023-1.235-1.361-1.856-3.341-1.664-5.295 0.035-0.355 0.347-0.649 0.697-0.6 2.472 0.131 4.537 1.016 5.813 2.495 1.096 1.271 1.58 2.925 1.399 4.788-0.031 0.319-0.285 0.575-0.607 0.599-0.263 0.025-0.519 0.036-0.768 0.036zM10.048 9.932c0.019 1.361 0.503 2.676 1.352 3.609 0.94 1.036 2.281 1.584 3.883 1.584v0c0.027 0 0.053 0 0.080 0 0.008-1.253-0.371-2.359-1.112-3.217-0.925-1.072-2.401-1.761-4.203-1.976zM16.776 12.46c-0.249 0-0.505-0.011-0.771-0.033-0.32-0.028-0.576-0.28-0.607-0.597-0.18-1.861 0.304-3.519 1.399-4.789 1.279-1.479 3.341-2.364 5.813-2.492 0.356-0.045 0.663 0.248 0.696 0.597 0.193 1.953-0.428 3.932-1.664 5.296-1.196 1.32-2.879 2.019-4.867 2.019zM16.695 11.127c1.667-0.028 3.008-0.531 3.964-1.584 0.849-0.936 1.333-2.251 1.352-3.609-1.801 0.211-3.277 0.904-4.203 1.973-0.74 0.864-1.12 1.967-1.113 3.22zM15.283 8.46v0c-1.988 0-3.672-0.699-4.871-2.023-1.235-1.361-1.856-3.341-1.664-5.295 0.035-0.355 0.347-0.637 0.697-0.6 2.472 0.131 4.537 1.016 5.813 2.495 1.096 1.271 1.58 2.925 1.399 4.788-0.031 0.319-0.285 0.575-0.607 0.599-0.263 0.025-0.519 0.036-0.768 0.036zM10.048 1.932c0.019 1.361 0.503 2.676 1.352 3.609 0.94 1.036 2.281 1.584 3.883 1.584v0c0.027 0 0.053 0 0.080 0 0.008-1.253-0.371-2.359-1.112-3.217-0.925-1.072-2.401-1.761-4.203-1.976z"></path>
-                                                            </svg>
+                                                            <img src="./public/website/image/fresh-content.png" alt="icon" style="width: 50px;" />
                                                         </span>
                                                         <h3>Fresh Content everyday</h3>
                                                     </div>
@@ -2701,9 +2680,7 @@
                                                 <div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding el_spacing_0px inherit_tablet inherit_phone m-0" style="margin:0">
                                                     <div class="wrapper">
                                                         <span style="margin-bottom: 20px;display: block;">
-                                                            <svg role="presentation" version="1.1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 32 32">
-                                                                <path d="M23.5 31.461h-15c-0.316 0-0.588-0.221-0.652-0.531l-2.5-12c-0.041-0.195 0.008-0.401 0.135-0.557 0.127-0.153 0.317-0.245 0.517-0.245h20c0.2 0 0.391 0.088 0.519 0.245 0.125 0.156 0.175 0.361 0.135 0.557l-2.5 12c-0.065 0.309-0.339 0.531-0.653 0.531zM9.043 30.128h13.916l2.223-10.667h-18.361l2.223 10.667zM24.667 22.128h-17.333c-0.368 0-0.667-0.3-0.667-0.667 0-0.369 0.299-0.667 0.667-0.667h17.333c0.367 0 0.667 0.297 0.667 0.667 0 0.367-0.3 0.667-0.667 0.667zM16 18.795c-0.368 0-0.667-0.3-0.667-0.667v-14.667c0-0.368 0.299-0.667 0.667-0.667s0.667 0.299 0.667 0.667v14.667c0 0.367-0.299 0.667-0.667 0.667zM15.283 16.46v0c-1.988 0-3.672-0.699-4.871-2.023-1.235-1.361-1.856-3.341-1.664-5.295 0.035-0.355 0.347-0.649 0.697-0.6 2.472 0.131 4.537 1.016 5.813 2.495 1.096 1.271 1.58 2.925 1.399 4.788-0.031 0.319-0.285 0.575-0.607 0.599-0.263 0.025-0.519 0.036-0.768 0.036zM10.048 9.932c0.019 1.361 0.503 2.676 1.352 3.609 0.94 1.036 2.281 1.584 3.883 1.584v0c0.027 0 0.053 0 0.080 0 0.008-1.253-0.371-2.359-1.112-3.217-0.925-1.072-2.401-1.761-4.203-1.976zM16.776 12.46c-0.249 0-0.505-0.011-0.771-0.033-0.32-0.028-0.576-0.28-0.607-0.597-0.18-1.861 0.304-3.519 1.399-4.789 1.279-1.479 3.341-2.364 5.813-2.492 0.356-0.045 0.663 0.248 0.696 0.597 0.193 1.953-0.428 3.932-1.664 5.296-1.196 1.32-2.879 2.019-4.867 2.019zM16.695 11.127c1.667-0.028 3.008-0.531 3.964-1.584 0.849-0.936 1.333-2.251 1.352-3.609-1.801 0.211-3.277 0.904-4.203 1.973-0.74 0.864-1.12 1.967-1.113 3.22zM15.283 8.46v0c-1.988 0-3.672-0.699-4.871-2.023-1.235-1.361-1.856-3.341-1.664-5.295 0.035-0.355 0.347-0.637 0.697-0.6 2.472 0.131 4.537 1.016 5.813 2.495 1.096 1.271 1.58 2.925 1.399 4.788-0.031 0.319-0.285 0.575-0.607 0.599-0.263 0.025-0.519 0.036-0.768 0.036zM10.048 1.932c0.019 1.361 0.503 2.676 1.352 3.609 0.94 1.036 2.281 1.584 3.883 1.584v0c0.027 0 0.053 0 0.080 0 0.008-1.253-0.371-2.359-1.112-3.217-0.925-1.072-2.401-1.761-4.203-1.976z"></path>
-                                                            </svg>
+                                                        <img src="./public/website/image/easy-to-share.png" alt="icon" style="width: 50px;" />
                                                         </span>
                                                         <h3>Ready to share everything</h3>
                                                     </div>
@@ -2711,9 +2688,7 @@
                                                 <div class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding el_spacing_0px inherit_tablet inherit_phone m-0" style="margin:0">
                                                     <div class="wrapper">
                                                         <span style="margin-bottom: 20px;display: block;">
-                                                            <svg role="presentation" version="1.1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 32 32">
-                                                                <path d="M23.5 31.461h-15c-0.316 0-0.588-0.221-0.652-0.531l-2.5-12c-0.041-0.195 0.008-0.401 0.135-0.557 0.127-0.153 0.317-0.245 0.517-0.245h20c0.2 0 0.391 0.088 0.519 0.245 0.125 0.156 0.175 0.361 0.135 0.557l-2.5 12c-0.065 0.309-0.339 0.531-0.653 0.531zM9.043 30.128h13.916l2.223-10.667h-18.361l2.223 10.667zM24.667 22.128h-17.333c-0.368 0-0.667-0.3-0.667-0.667 0-0.369 0.299-0.667 0.667-0.667h17.333c0.367 0 0.667 0.297 0.667 0.667 0 0.367-0.3 0.667-0.667 0.667zM16 18.795c-0.368 0-0.667-0.3-0.667-0.667v-14.667c0-0.368 0.299-0.667 0.667-0.667s0.667 0.299 0.667 0.667v14.667c0 0.367-0.299 0.667-0.667 0.667zM15.283 16.46v0c-1.988 0-3.672-0.699-4.871-2.023-1.235-1.361-1.856-3.341-1.664-5.295 0.035-0.355 0.347-0.649 0.697-0.6 2.472 0.131 4.537 1.016 5.813 2.495 1.096 1.271 1.58 2.925 1.399 4.788-0.031 0.319-0.285 0.575-0.607 0.599-0.263 0.025-0.519 0.036-0.768 0.036zM10.048 9.932c0.019 1.361 0.503 2.676 1.352 3.609 0.94 1.036 2.281 1.584 3.883 1.584v0c0.027 0 0.053 0 0.080 0 0.008-1.253-0.371-2.359-1.112-3.217-0.925-1.072-2.401-1.761-4.203-1.976zM16.776 12.46c-0.249 0-0.505-0.011-0.771-0.033-0.32-0.028-0.576-0.28-0.607-0.597-0.18-1.861 0.304-3.519 1.399-4.789 1.279-1.479 3.341-2.364 5.813-2.492 0.356-0.045 0.663 0.248 0.696 0.597 0.193 1.953-0.428 3.932-1.664 5.296-1.196 1.32-2.879 2.019-4.867 2.019zM16.695 11.127c1.667-0.028 3.008-0.531 3.964-1.584 0.849-0.936 1.333-2.251 1.352-3.609-1.801 0.211-3.277 0.904-4.203 1.973-0.74 0.864-1.12 1.967-1.113 3.22zM15.283 8.46v0c-1.988 0-3.672-0.699-4.871-2.023-1.235-1.361-1.856-3.341-1.664-5.295 0.035-0.355 0.347-0.637 0.697-0.6 2.472 0.131 4.537 1.016 5.813 2.495 1.096 1.271 1.58 2.925 1.399 4.788-0.031 0.319-0.285 0.575-0.607 0.599-0.263 0.025-0.519 0.036-0.768 0.036zM10.048 1.932c0.019 1.361 0.503 2.676 1.352 3.609 0.94 1.036 2.281 1.584 3.883 1.584v0c0.027 0 0.053 0 0.080 0 0.008-1.253-0.371-2.359-1.112-3.217-0.925-1.072-2.401-1.761-4.203-1.976z"></path>
-                                                            </svg>
+                                                        <img src="./public/website/image/personalised-greetings.png" alt="icon" style="width: 50px;" />
                                                         </span>
                                                         <h3>Personalised greetings</h3>
                                                     </div>
@@ -2843,7 +2818,7 @@
                             </div>
                         </div>
                         <div
-                            id="fws_6517a2cd9a74f"
+                            id="faq-section"
                             data-column-margin="default"
                             data-midnight="dark"
                             data-top-percent="8%"
@@ -3030,6 +3005,115 @@
                                                     </div>
                                                 </div>
                                                  <!-- end code -->
+                                                  <!-- new code -->
+                                                <div class="toggle accent-color" data-inner-wrap="true">
+                                                    <h3 class="toggle-title">
+                                                        <a href="#" role="button" class="nectar-inherit-h3 toggle-heading">
+                                                            <i role="presentation" class="fa fa-plus-circle"></i>What file formats are the greetings available in?
+
+                                                        </a>
+                                                    </h3>
+                                                    <div>
+                                                        <div class="inner-toggle-wrap">
+                                                            <div class="wpb_text_column wpb_content_element">
+                                                                <div class="wpb_wrapper">
+                                                                    <p>All greetings are available for download in high-quality JPEG or PNG formats, optimized for sharing on social media, messaging apps, or printing.</p>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <!-- end code -->
+                                                    <!-- new code -->
+                                                <div class="toggle accent-color" data-inner-wrap="true">
+                                                    <h3 class="toggle-title">
+                                                        <a href="#" role="button" class="nectar-inherit-h3 toggle-heading">
+                                                            <i role="presentation" class="fa fa-plus-circle"></i>
+                                                            Is there any limit to the number of greetings I can create?
+                                                        </a>
+                                                    </h3>
+                                                    <div>
+                                                        <div class="inner-toggle-wrap">
+                                                            <div class="wpb_text_column wpb_content_element">
+                                                                <div class="wpb_wrapper">
+                                                                    <p>
+                                                                    During the free trial, you can create and download up to 5 greetings. Once you subscribe to our yearly plan, there are no limits—you can create and download as many as you like.
+                                                                    </p>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <!-- end code -->
+                                                      <!-- new code -->
+                                                <div class="toggle accent-color" data-inner-wrap="true">
+                                                    <h3 class="toggle-title">
+                                                        <a href="#" role="button" class="nectar-inherit-h3 toggle-heading">
+                                                            <i role="presentation" class="fa fa-plus-circle"></i>
+                                                            How do I subscribe to the yearly plan?
+                                                        </a>
+                                                    </h3>
+                                                    <div>
+                                                        <div class="inner-toggle-wrap">
+                                                            <div class="wpb_text_column wpb_content_element">
+                                                                <div class="wpb_wrapper">
+                                                                    <p>
+                                                                    You can subscribe by clicking on the "Subscribe" button on our homepage or from your account dashboard. Simply choose the yearly subscription plan, and after payment, you’ll have full access to the platform.
+                                                                    </p>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <!-- end code -->
+                                                        <!-- new code -->
+                                                <div class="toggle accent-color" data-inner-wrap="true">
+                                                    <h3 class="toggle-title">
+                                                        <a href="#" role="button" class="nectar-inherit-h3 toggle-heading">
+                                                            <i role="presentation" class="fa fa-plus-circle"></i>
+                                                            Can I cancel my subscription?
+                                                        </a>
+                                                    </h3>
+                                                    <div>
+                                                        <div class="inner-toggle-wrap">
+                                                            <div class="wpb_text_column wpb_content_element">
+                                                                <div class="wpb_wrapper">
+                                                                    <p>
+                                                                    Yes, you can cancel your subscription at any time. However, you will continue to have access to the platform until the end of your current subscription period.
+                                                                    </p>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <!-- end code -->
+                                                      <!-- new code -->
+                                                <div class="toggle accent-color" data-inner-wrap="true">
+                                                    <h3 class="toggle-title">
+                                                        <a href="#" role="button" class="nectar-inherit-h3 toggle-heading">
+                                                            <i role="presentation" class="fa fa-plus-circle"></i>
+                                                            How do I contact customer support?
+
+                                                        </a>
+                                                    </h3>
+                                                    <div>
+                                                        <div class="inner-toggle-wrap">
+                                                            <div class="wpb_text_column wpb_content_element">
+                                                                <div class="wpb_wrapper">
+                                                                    <p>
+                                                                    If you have any questions or issues, feel free to contact our customer support team at hello@wishpik.com. We’re here to help!
+                                                                    </p>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <!-- end code -->
                                             </div>
                                         </div>
                                     </div>
@@ -3130,9 +3214,11 @@
         <div class="inner" data-prepend-menu-mobile="false">
             <div class="off-canvas-menu-container mobile-only" role="navigation">
                 <ul class="menu">
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-31"><a href="#intro" aria-current="page">Our values</a></li>
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32"><a href="#testimonials" aria-current="page">Why Salient?</a></li>
-                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-33"><a href="#how-it-works" aria-current="page">How it works</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-31"><a href="#intro" aria-current="page">Why Wishpik</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32"><a href="#testimonials" aria-current="page">Features</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-33"><a href="#pricing-section" aria-current="page">Pricing</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-33"><a href="#faq-section" aria-current="page">FAQs</a></li>
+
                 </ul>
                 <ul class="menu secondary-header-items"></ul>
             </div>
